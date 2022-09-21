@@ -1,0 +1,20 @@
+h2*4
+
+selectores:
+#NOMBRE SELECTOR{
+    modificadores
+}
+
+NombreDelSelector( Propiedad modificar: valor de la propiedad)
+
+selectores adyacentes
+
+p + h2
+
+selectores hermanos
+
+p ~ h2
+
+combindor de hijos
+
+A-
